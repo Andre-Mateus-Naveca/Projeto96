@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(214, 85, 85)30%, rgb(67, 184, 67)70%)
+}
+#buttonLogout{
+    margin-left: 1000px;
+}
+#nomeSala{
+    margin-top: 100px;
+    margin-left: 200px;
+    color: rgb(27, 63, 63);
+    border-color: rgb(201, 212, 35);
+    width: 50%;
+}

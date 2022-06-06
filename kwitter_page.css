@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(lightblue 40%, rgb(151, 218, 151) 50%);
+    text-align: center;
+}
+#logout{
+    margin-left: 500px;
+}
+#text_input{
+    margin-top: 70px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(28, 59, 28);
+}
+.user_tick
+{
+	width:20px;
+}
+#buttonEnviar{
+    margin-top: 100px;
+}
